@@ -7,4 +7,4 @@ language = "en"
 fontfamily = "Tomkin"
 textcolor = "ffffff"
 backgroundcolor = "000000"
-fontsize = 12
+fontsize = "1rem"          # string, e.g. "1rem", "12px", etc.
