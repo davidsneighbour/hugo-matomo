@@ -1,3 +1,3 @@
-module github.com/dnb-org/dnb-hugo-matomo
+module github.com/davidsneighbour/hugo-matomo
 
 go 1.17
