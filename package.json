@@ -1,5 +1,5 @@
 {
-  "name": "@dnb-org/dnb-hugo-matomo",
+  "name": "@davidsneighbour/hugo-matomo",
   "version": "0.0.6",
   "license": "MIT",
   "description": "Matomo (formerly Piwik) tracking layouts for Hugo",
@@ -8,9 +8,9 @@
     "email": "patrick@davids-neighbour.com",
     "web": "https://davids-neighbour.com"
   },
-  "homepage": "https://github.com/dnb-org/dnb-hugo-matomo",
-  "repository": "dnb-org/dnb-hugo-matomo",
-  "bugs": "https://github.com/dnb-org/dnb-hugo-matomo/issues",
+  "homepage": "https://github.com/davidsneighbour/hugo-matomo",
+  "repository": "davidsneighbour/hugo-matomo",
+  "bugs": "https://github.com/davidsneighbour/hugo-matomo/issues",
   "devDependencies": {
     "@dnb-org/standard-version-config": "^3.5.9",
     "@dnb-org/tools": "^3.5.10"
